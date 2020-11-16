@@ -977,3 +977,4 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [alibaba/ice](https://github.com/alibaba/ice) - 🚀Simple and friendly front-end development system（飞冰，简单而友好的前端研发体系 ）https://ice.work/
 * [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient
 * [ExactTarget/fuelux](https://github.com/ExactTarget/fuelux) - Extends Twitter Bootstrap with additional lightweight JavaScript controls. Easy to install, customize, update, and optimize. All functionality covered by live documentation and unit tests.
+* [cidaas/cidaas](https://github.com/Cidaas/cidaas-javascript-sdk) - SDK to integrate [cidaas](https://www.cidaas.com) (Cloud Identity & Access Management) for authentication and authorization of users
